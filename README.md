@@ -1,3 +1,8 @@
+![Uploading cdr (1).gif…]()
+
+
+
+
 - 👋 Hi, I’m Ashish1 Agrahari
 - 👀 I’m interested in Data Analytics 
 - 🌱 I’m currently learning Machine Learning 
