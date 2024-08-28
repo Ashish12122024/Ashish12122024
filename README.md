@@ -1,4 +1,5 @@
-![Uploading cdr (1).gif…]
+![cdr](https://github.com/user-attachments/assets/c9c8537b-24b1-4e3e-8a04-f24aa52e9b97)
+
 
 
 
