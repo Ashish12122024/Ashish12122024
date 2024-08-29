@@ -8,7 +8,7 @@
 
 
 
-**Data Analyst | Data Enthusiast | Insight Creator**
+## **Data Analyst | Data Enthusiast | Insight Creator**
 
 I’m passionate about using data to solve problems and discover actionable insights. With a strong background in data analytics, I specialize in data wrangling, statistical analysis, and visualization to drive data-informed decisions. I love working with datasets to uncover patterns and trends that help organizations make informed decisions. Constantly learning new tools and techniques to enhance my data capabilities!
 
